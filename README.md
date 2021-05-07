@@ -36,7 +36,7 @@ Instalar en Aplicaciones
 
 ------------------------------------------------------------------------------------------
 
-Mi configuraci—n:
+Mi configuración:
 
 Intel Core i5 6200U CPU (Skylake)
 Intel HD 520 Graphics
@@ -49,7 +49,7 @@ SD Card Reader
 HDD 1TB (Tradicional no SSD)
 
 
-Configuraci—n del BIOS:
+Configuración del BIOS:
 
 Disable Fast Boot
 Disable Power On when AC Detected
