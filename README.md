@@ -1,5 +1,5 @@
 # EFI-HP
- HP Probook 430 G3
+HP Probook 430 G3
 
 
 Carpeta EFI completa, totalmente optimizada y operativa, sin problemas de ACPI.
@@ -24,7 +24,7 @@ IntelBluetoothFirmware Kext:
 Instalar en /EFI/OC/Kexts y tomar Snapshoot con ProperTree-master (Tecla Command + R) y salvar.
 
 
-3.- Para acceder al WIFI desde el men√∫:
+3.- Para acceder al WIFI desde el menu:
 
 Heliport para WIFI intel:
 
@@ -35,7 +35,9 @@ Instalar en Aplicaciones
 
 ------------------------------------------------------------------------------------------
 
-Mi configuraci√≥n:
+
+
+Mi configuraci¢n:
 
 Intel Core i5 6200U CPU (Skylake)
 
@@ -58,7 +60,7 @@ HDD 1TB (Tradicional no SSD)
 
 
 
-Configuraci√≥n del BIOS:
+Configuraci¢n del BIOS:
 
 Disable Fast Boot
 
