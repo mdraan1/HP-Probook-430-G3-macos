@@ -10,12 +10,14 @@ Creada desde 0 a partir de los repositorios y parches de @Rehabman y @Dortania e
 Solo requiere:
 
 1.- Generar un nuevo serial:
+
 GenSMBIOS script:
 
 - https://github.com/corpnewt/GenSMBIOS
 
 
 2.- Para BLuetooth INTEL:
+
 IntelBluetoothFirmware Kext:
 
 - https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/1.1.2
@@ -23,7 +25,8 @@ IntelBluetoothFirmware Kext:
 Instalar en /EFI/OC/Kexts y tomar Snapshoot con ProperTree-master (Tecla Command + R) y salvar.
 
 
-3.- Para acceder al WIFI desde el menœ:
+3.- Para acceder al WIFI desde el menu:
+
 Heliport para WIFI intel:
 
 - https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.0
@@ -33,7 +36,7 @@ Instalar en Aplicaciones
 
 ------------------------------------------------------------------------------------------
 
-Mi configuraci—n:
+Mi configuraciâ€”n:
 
 Intel Core i5 6200U CPU (Skylake)
 Intel HD 520 Graphics
@@ -46,7 +49,7 @@ SD Card Reader
 HDD 1TB (Tradicional no SSD)
 
 
-Configuraci—n del BIOS:
+Configuraciâ€”n del BIOS:
 
 Disable Fast Boot
 Disable Power On when AC Detected
@@ -72,7 +75,7 @@ Que funciona:
 macOS High Sierra - Mojave - Catalina - Big Sur (Comprobado)
 Arranque UEFI via OpenCore 0.6.8
 Teclas especiales de volume y brillo
-Trackpad (Gestos B‡sicos)
+Trackpad (Gestos Bâ€¡sicos)
 HDMI Video y Sonido
 Ethernet Realtek
 Wifi,Bluetooth, AirDrop y AirPlay
