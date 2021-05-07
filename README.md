@@ -1,5 +1,4 @@
 
-
 EFI-HP
 HP Probook 430 G3
 
@@ -16,7 +15,7 @@ Solo requiere:
 - https://github.com/corpnewt/GenSMBIOS
 
 
-2.- Para BLuetooth INTEL:
+2.- Para Bluetooth INTEL:
 - IntelBluetoothFirmware Kext:
 
 - https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/1.1.2
@@ -40,11 +39,12 @@ Mi configuración:
 - Intel HD 520 Graphics
 - 8GB DDR3
 - 13.3 1366x768 Display
-- Intel Wireless (Original)
+- Intel Wireless 8260 (Original)
+- LAN Realtek RTL8111
 - 2 USB 3.0 Ports, 1 USB 2.0 Ports-
-- HDMI Port
-- SD Card Reader
-- HDD 1TB (Tradicional no SSD)
+- HDMI
+- Lector de tarjetas SD
+- HDD 1TB 5400 RPM (Tradicional no SSD)
 
 
 Configuración del BIOS:
@@ -76,7 +76,9 @@ Que funciona:
 - Trackpad (Gestos Básicos)
 - HDMI Video y Sonido
 - Ethernet Realtek
-- Wifi,Bluetooth, AirDrop y AirPlay
+- Intel Wifi 8260 (itlwm.kext)
+- AirDrop y AirPlay
+- Bluetooth (Usando IntelBluetoothFirmware.kext)
 - Audio nativo con AppleALC y jack de audifono
 - Microfono integrado
 - Power manager - Sleep
@@ -91,3 +93,7 @@ No Funciona:
 - Lector de huellas
 - Lector de tarjetas SD
 
+-----------------------------------------------------------------------
+
+- Probado en macOS High Sierra, Mojave, Catalina y Big Sur sin poblemas, perfectamente actualizable.
+- Se dejan en este repositorio los archivos ICC para la corrección de colores de la pantalla.
