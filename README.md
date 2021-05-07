@@ -91,5 +91,5 @@ iServices
 No Funciona:
 
 Lector de huellas
-Lector de tarjetas SD
+Lector de tarjetas SD 
 
