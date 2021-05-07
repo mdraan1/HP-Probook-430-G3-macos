@@ -38,15 +38,15 @@ Instalar en Aplicaciones
 
 Mi configuración:
 
-Intel Core i5-6200U 2.3GHz
-8GB DDR3
-Intel HD 520 
-Pantalla LCD 13.3/1366x768
-Intel Wireless 8260 (Original)
-LAN Realtek RTL8111
-2 USB 3.0 + 1 USB 2.0
-HDMI
-Lector SD
-HDD 1 TB (Tradicional no SSD) 
+- Intel Core i5-6200U 2.3GHz
+- 8GB DDR3 
+- Intel HD 520 
+- Pantalla LCD 13.3/1366x768 
+- Intel Wireless 8260 (Original) 
+- LAN Realtek RTL8111 
+- 2 USB 3.0 + 1 USB 2.0 
+- HDMI 
+- Lector SD 
+- HDD 1 TB (Tradicional no SSD) 
 
 
