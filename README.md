@@ -19,7 +19,7 @@ Solo requiere:
 
 - https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/1.1.2
 
-Instalar en /EFI/OC/Kexts y tomar Snapshoot con ProperTree-master (Tecla Command + R) y salvar.
+Instalar en /EFI/OC/Kexts y tomar Snapshot con ProperTree-master (Tecla Command + R) y salvar.
 
 
 3.- Para acceder al WIFI desde el menú:
