@@ -1155,194 +1155,194 @@
 		<key>Add</key>
 		<array>
 			<dict>
-				<key>BundlePath</key>
-				<string>USBInjectAll.kext</string>
 				<key>Comment</key>
 				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/USBInjectAll</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>USBInjectAll.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Controller</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Keyboard</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Mouse</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Trackpad</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>Lilu.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/Lilu</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>Lilu.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VirtualSMC.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VirtualSMC</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>VirtualSMC.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>SMCProcessor.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCProcessor</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>SMCProcessor.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>AppleALC.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
+				<key>BundlePath</key>
+				<string>AppleALC.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string></string>
-				<key>MinKernel</key>
+				<key>MaxKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>WhateverGreen.kext</string>
-				<key>Comment</key>
-				<string></string>
 				<key>Enabled</key>
 				<true/>
+				<key>MinKernel</key>
+				<string></string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
 				<key>Arch</key>
 				<string>Any</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
+				<key>BundlePath</key>
+				<string>WhateverGreen.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -1357,10 +1357,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -1375,10 +1375,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -1400,11 +1400,29 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/itlwm</string>
+				<string>Contents/MacOS/NoTouchID</string>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>itlwm.kext</string>
+				<string>NoTouchID.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirportItlwm</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>AirportItlwm.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -1690,7 +1708,7 @@
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
-			<false/>
+			<true/>
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
@@ -1898,7 +1916,7 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>rtc-blacklist</key>
-				<data></data>
+				<data>WFk=</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
@@ -1976,7 +1994,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02728609GUH9W8UE</string>
+			<string>C02728609JUH0P8UE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1988,9 +2006,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C022RHRPGYGT</string>
+			<string>C02V2HYPGYFH</string>
 			<key>SystemUUID</key>
-			<string>D5525C14-A55B-4C2E-B9D1-A968C002C8564</string>
+			<string>D5525C14-A54B-4D2E-B9D1-A978C0022C87</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -2126,7 +2144,7 @@
 			<key>AppleKeyMap</key>
 			<false/>
 			<key>AppleRtcRam</key>
-			<false/>
+			<true/>
 			<key>AppleSecureBoot</key>
 			<false/>
 			<key>AppleSmcIo</key>
