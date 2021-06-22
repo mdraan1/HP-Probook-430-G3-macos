@@ -27,7 +27,7 @@ Instalar en /EFI/OC/Kexts y tomar Snapshot con ProperTree-master (Tecla Command 
 
 - https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.0
 
-Instalar en Aplicaciones
+Instalar en Aplicaciones.
 
 
 ------------------------------------------------------------------------------------------
